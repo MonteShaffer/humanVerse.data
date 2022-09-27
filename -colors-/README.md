@@ -1,14 +1,16 @@
 = Colors 
 
+```
+source("one.R");
+github.install("humanVerse");
+method1 = colors.getList("R-657");
+method2 = data.get("humanVerse/kdlsj.pipe.txt");
+```
+
 <TABLE>
 	<TR>
 		<TH colspan=2>
-		```
-		source("one.R");
-		github.install("humanVerse");
-		method1 = colors.getList("R-657");
-		method2 = data.get("humanVerse/kdlsj.pipe.txt");
-		```
+		Introduction to Color 
 		</TH>
 	<TR>
 		<TH valign="top" align="center">Color Library</TH>
@@ -51,8 +53,8 @@
 		</TD>	
 	</TR>
 	<TR>
-		<TD align="center" valign="top" colspan=2>
-		<B>SOURCES:</B>
+		<TD align="left" valign="top" colspan=2>
+		<B><U>SOURCES:</U></B>
 		<ul>
 			<li>http://colors.mshaffer.com</li>
 			<li>http://c.mshaffer.com/js/colorpicker/colorpicker.colors.js</li>
