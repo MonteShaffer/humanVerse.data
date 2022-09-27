@@ -50,5 +50,14 @@
 			This is a dataframe with 
 		</TD>	
 	</TR>
+	<TR>
+		<TD align="center" valign="top" colspan=2>
+		<B>SOURCES:</B>
+		<ul>
+			<li>http://colors.mshaffer.com</li>
+			<li>http://c.mshaffer.com/js/colorpicker/colorpicker.colors.js</li>
+			<li>http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html</li>
+		</ul>
+		</TD>
 </TABLE>
 
