@@ -69,6 +69,7 @@ method2 = data.get("humanVerse/kdlsj.pipe.txt");
 			<li>http://colors.mshaffer.com</li>
 			<li>http://c.mshaffer.com/js/colorpicker/colorpicker.colors.js</li>
 			<li>http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html</li>
+			<li>http://cerebrumcontorquet.debun.nl/brainwaves/tablecheck/index.php</li>
 		</ul>
 		</TD>
 	</TR>
