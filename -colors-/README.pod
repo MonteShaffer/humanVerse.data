@@ -22,7 +22,9 @@
 		<TH valign="top" align="center">Wikipedia Link</TH>			
 		<TH valign="top" align="center">Description</TH>
 		<TH valign="top" align="center">Color Library</TH>	
-	</TR>	
+	</TR>
+</TABLE>
+<TABLE>	
 	<TR>
 		<TH valign="top" align="center"><a href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a></TH>
 		<TD valign="top" align="left">
