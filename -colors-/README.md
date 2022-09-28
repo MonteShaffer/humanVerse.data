@@ -1,13 +1,13 @@
-=head1 Colors 
+# Colors 
 
-
+```
 	source("one.R");
 	github.install("humanVerse");
 	method1 = colors.getList("R-657");
 	method2 = data.get("humanVerse/kdlsj.pipe.txt");
+```
 
-
-=begin html
+```{html}
 <DIV>
 <TABLE>
 	<THEAD>
@@ -84,4 +84,4 @@
 	</TBODY>
 </TABLE>
 </DIV>
-=end html
+```
