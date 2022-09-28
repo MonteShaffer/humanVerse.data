@@ -7,7 +7,7 @@ method1 = colors.getList("R-657");
 method2 = data.get("humanVerse/kdlsj.pipe.txt");
 ```
 
-
+<DIV>
 <TABLE>
 	<TR>
 		<TH colspan=3>
@@ -74,4 +74,4 @@ method2 = data.get("humanVerse/kdlsj.pipe.txt");
 		</TD>
 	</TR>
 </TABLE>
-
+</DIV>
