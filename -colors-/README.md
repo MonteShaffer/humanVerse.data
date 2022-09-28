@@ -11,7 +11,7 @@ method2 = data.get("humanVerse/kdlsj.pipe.txt");
 <TABLE>
 	<TR>
 		<TH colspan=3>
-		I developed a <a href="http://colors.mshaffer.com">COLOR PICKER TOOL</a> to make it easier for me to select harmonious colors based on the mathematics of the color wheel.  Most of the conversion tools I have written in the *humanVerse* library were ported from the javascript code I used on this website.  I have developed several color-helper functions in the *humanVerse* anchored to BASE-R with my knowledge of color uses.
+		I developed a <a href="http://colors.mshaffer.com">COLOR PICKER TOOL</a> to make it easier for me to select harmonious colors based on the mathematics of the color wheel.  Most of the conversion tools I have written in the *humanVerse* library were ported from the javascript code I used on this website.  I have developed several color-helper functions in the *humanVerse* anchored to BASE-R with my knowledge of color uses.  One important feature is the ability for you to create your own named lists of colors to use.
 		</TH>
 	<TR>
 		<TH valign="top" align="center">Wikipedia Link</TH>			
@@ -62,7 +62,7 @@ method2 = data.get("humanVerse/kdlsj.pipe.txt");
 		<TH valign="top" align="center"><a href="https://raw.githubusercontent.com/MonteShaffer/humanVerse.data/main/-colors-/COLORS_HTML-8.txt">HTML-8</a></TH>
 	</TR>
 	<TR>
-		<TD align="left" valign="top" colspan=2>
+		<TD align="left" valign="top" colspan=3>
 		<B><U>DATA SOURCES:</U></B>
 		<ul>
 			<li>http://colors.mshaffer.com</li>
