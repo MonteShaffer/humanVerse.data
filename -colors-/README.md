@@ -7,7 +7,7 @@
 	method2 = data.get("humanVerse/kdlsj.pipe.txt");
 ```
 
-{{< rawhtml >}}
+
 <DIV>
 <TABLE>
 <THEAD>
@@ -85,5 +85,5 @@ The webcolors used on the web before HTML 4 in 1999.
 </TBODY>
 </TABLE>
 </DIV>
-{{< /rawhtml >}}
+
 
