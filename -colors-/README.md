@@ -13,6 +13,7 @@ method2 = data.get("humanVerse/kdlsj.pipe.txt");
 		<TH colspan=3>
 		I developed a <a href="http://colors.mshaffer.com">COLOR PICKER TOOL</a> to make it easier for me to select harmonious colors based on the mathematics of the color wheel.  Most of the conversion tools I have written in the *humanVerse* library were ported from the javascript code I used on this website.  I have developed several color-helper functions in the *humanVerse* anchored to BASE-R with my knowledge of color uses.  One important feature is the ability for you to create your own named lists of colors to use.
 		</TH>
+	</TR>
 	<TR>
 		<TH valign="top" align="center">Wikipedia Link</TH>			
 		<TH valign="top" align="center">Description</TH>
@@ -70,5 +71,6 @@ method2 = data.get("humanVerse/kdlsj.pipe.txt");
 			<li>http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html</li>
 		</ul>
 		</TD>
+	</TR>
 </TABLE>
 
