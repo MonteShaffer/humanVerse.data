@@ -1,11 +1,11 @@
 =head1 Colors 
 
-<code>
-source("one.R");
-github.install("humanVerse");
-method1 = colors.getList("R-657");
-method2 = data.get("humanVerse/kdlsj.pipe.txt");
-</code>
+
+	source("one.R");
+	github.install("humanVerse");
+	method1 = colors.getList("R-657");
+	method2 = data.get("humanVerse/kdlsj.pipe.txt");
+
 
 =begin html
 <DIV>
@@ -41,7 +41,7 @@ method2 = data.get("humanVerse/kdlsj.pipe.txt");
 	<TR>
 		<TH valign="top" align="center"><a href="https://en.wikipedia.org/wiki/Web_colors#Web-safe_colors">Web safe</a></TH>
 		<TD valign="top" align="left">
-			In the mid-1990s, many displays were only capable of displaying 256 colors.There were various attempts to make a "standard" color palette. A palette of 216 was chosen (6 × 6 × 6 = 216):  six equally spaced shades of red, green, and blue (mod 151?), each from 00 to FF.
+			In the mid-1990s, many displays were only capable of displaying 256 colors.There were various attempts to make a "standard" color palette. A palette of 216 was chosen (6 * 6 * 6 = 216):  six equally spaced shades of red, green, and blue (mod 151?), each from 00 to FF.
 		</TD>	
 		<TH valign="top" align="center"><a href="https://raw.githubusercontent.com/MonteShaffer/humanVerse.data/main/-colors-/COLORS_WEB-216.txt">WEB-216</a></TH>
 	</TR>
