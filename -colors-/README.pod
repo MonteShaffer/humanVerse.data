@@ -1,11 +1,11 @@
-# Colors 
+=head1 Colors 
 
-```
+<code>
 source("one.R");
 github.install("humanVerse");
 method1 = colors.getList("R-657");
 method2 = data.get("humanVerse/kdlsj.pipe.txt");
-```
+</code>
 
 =begin html
 <DIV>
