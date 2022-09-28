@@ -7,6 +7,7 @@ method1 = colors.getList("R-657");
 method2 = data.get("humanVerse/kdlsj.pipe.txt");
 ```
 
+=begin html
 <DIV>
 <TABLE>
 	<THEAD>
@@ -72,10 +73,15 @@ method2 = data.get("humanVerse/kdlsj.pipe.txt");
 			<li>http://colors.mshaffer.com</li>
 			<li>http://c.mshaffer.com/js/colorpicker/colorpicker.colors.js</li>
 			<li>http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html</li>
+		</ul>
+		<B><U>SOURCES TO GET HTML TO RENDER ON GITHUB:</U></B>
+		<ul>
 			<li>http://cerebrumcontorquet.debun.nl/brainwaves/tablecheck/index.php</li>
+			<li>https://metacpan.org/dist/perl/view/pod/perlpod.pod</li>
 		</ul>
 		</TD>
 	</TR>
 	</TBODY>
 </TABLE>
 </DIV>
+=end html
